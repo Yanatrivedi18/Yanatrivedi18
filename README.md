@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yana Trivedi</h1>
 <h3 align="center">I build web applications and experiment with practical systems. I enjoy turning ideas into working products and improving them over time.</h3>
+<img align = "right" alt = "coding" width ="400" src= <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/1c0c0027-0b20-470a-90df-433b3f41a4a4" />
+> 
 
 - 🔭 I’m currently working on **Speciwise — a career guidance platform that helps students choose the right path through three structured tests and performance-based insights.**
 
