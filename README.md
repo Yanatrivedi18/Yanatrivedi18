@@ -4,7 +4,7 @@
 I build web applications and experiment with practical systems. I enjoy turning ideas into working products and improving them over time.
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/1c0c0027-0b20-470a-90df-433b3f41a4a4" />
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🔭 I’m currently working on **Speciwise — a career guidance platform that helps students choose the right path through three structured tests and performance-based insights**
 
