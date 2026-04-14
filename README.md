@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yana Trivedi</h1>
+<h1 align="center">Hi, I'm Yana Trivedi</h1>
 
-<h3 align="center">
+<h3 align="left">
 I build web applications and experiment with practical systems. I enjoy turning ideas into working products and improving them over time.
 </h3>
 
