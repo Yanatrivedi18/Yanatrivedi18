@@ -24,12 +24,11 @@ I enjoy turning ideas into working products and improving them over time.
 - ⚡ Fun fact: **If it works, it was intentional 😌**
 
 <br>
-## 🌐 Portfolio
+ 🌐 Portfolio
 
 🔗 **Live Portfolio:**  
 **https://portfolio-k8bkhw7ob-yanatrivedi111-8606s-projects.vercel.app/**
 
-Showcasing my projects, technical skills, experience, and work.
 ---
 
 ### 🌐 Connect with me
