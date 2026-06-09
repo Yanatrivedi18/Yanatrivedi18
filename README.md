@@ -33,6 +33,10 @@ I enjoy turning ideas into working products and improving them over time.
 <a href="https://www.linkedin.com/in/yana-trivedi-86047128a/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+
+<a href="https://portfolio-k8bkhw7ob-yanatrivedi111-8606s-projects.vercel.app/" target="_blank">
+<img align="center" src="https://img.icons8.com/fluency/48/domain.png" height="35" width="35" />
+</a>
 </p>
 
 <br>
